@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Angelo Masimino",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Sicilia",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"happiness": 99,
+		"culture": 99,
+		"science": 99,
+		"maintenance": 40,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Memoriale",
+                "replaces": "Monument",
+		"uniqueTo": "Sicilia",
+		"culture": 99,
+		"faith": 99,
+		"cost": 10,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
 	}
 ]
