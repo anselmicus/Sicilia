@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Angelo Masimino",
+		"name": "Angelo Massimino",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Sicilia",
-		"cost": 480,
+		"cost": 1,
 		"happiness": 99,
 		"culture": 99,
 		"science": 99,
-		"maintenance": 40,
+		"maintenance": 1,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 	},
@@ -17,8 +17,9 @@
 		"uniqueTo": "Sicilia",
 		"culture": 99,
 		"faith": 99,
-		"cost": 10,
-		"hurryCostModifier": 40,
+		"cience": 99,
+		"cost": 1,
+		"hurryCostModifier": 10,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
 	}
