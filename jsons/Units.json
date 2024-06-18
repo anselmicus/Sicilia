@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Laburante",
+		"unitType": "Civilian",
+  "uniqueTo": "Sicilia",
+		"movement": 5,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 7
+	},
+
+	{
 		"name": "Phasers",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
