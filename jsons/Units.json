@@ -8,7 +8,14 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 7
 	},
-
+	{
+		"name": "Poblador",
+		"UnitType": "Civilian",
+		"uniqueTo": "Sicilia",
+		"replaces": "Settler",
+                "uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+	        "cost": 1
+			},
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
