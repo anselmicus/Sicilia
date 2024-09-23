@@ -5,7 +5,8 @@
                 "uniqueTo": "Sicilia",
 		"replaces": "Worker"
 		"movement": 5,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"uniques": ["Can build [Land] improvements on tiles", "Can hurry technology research", "Automation is a primary action"],
+		
 		"cost": 7
 	},
 	
